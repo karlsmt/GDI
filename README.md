@@ -10,10 +10,10 @@
 To run and compile the code you need at least Visual Studio 2022 with the .NET 7 MAUI package installed.
 
 ## Authors and acknowledgment
-tba
+MGehring
 
 ## License
 No License, free to use for educational purpose.
 
 ## Project status
-Just started
+No further development
