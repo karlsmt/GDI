@@ -1,21 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace hue1.Arrays
+
+namespace HUE1
 {
-    public class Arrays
+    class Arrays
     {
-        public static void Main()
+        static void Main()
         {
             double[] zahlen;
             double summe;
 
             zahlen = new double[3];
-            zahlen[0] = Math.PI;   // PI
+            zahlen[0] = System.Math.PI;   // PI
             zahlen[1] = 2.718281828;  // e
             zahlen[2] = 42;     // Antwort
             summe = zahlen[0] + zahlen[1] + zahlen[2];

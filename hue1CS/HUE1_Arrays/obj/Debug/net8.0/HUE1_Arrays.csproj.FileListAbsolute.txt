@@ -1,0 +1,42 @@
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.exe
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.deps.json
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.runtimeconfig.json
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.dll
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.pdb
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.AssemblyInfoInputs.cache
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.AssemblyInfo.cs
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.dll
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\refint\HUE1_Arrays.dll
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.pdb
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.genruntimeconfig.cache
+C:\Users\schae\Desktop\GDI HUE\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\ref\HUE1_Arrays.dll
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.exe
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.deps.json
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.runtimeconfig.json
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.dll
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.pdb
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.AssemblyInfoInputs.cache
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.AssemblyInfo.cs
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.dll
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\refint\HUE1_Arrays.dll
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.pdb
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.genruntimeconfig.cache
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\GDI Hörsaalübungen WiSe24_25\HUE 24_25\HUE1\HUE1_Arrays\obj\Debug\net8.0\ref\HUE1_Arrays.dll
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.exe
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.deps.json
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.runtimeconfig.json
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.dll
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\bin\Debug\net8.0\HUE1_Arrays.pdb
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.AssemblyInfoInputs.cache
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.AssemblyInfo.cs
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.dll
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\obj\Debug\net8.0\refint\HUE1_Arrays.dll
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.pdb
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\obj\Debug\net8.0\HUE1_Arrays.genruntimeconfig.cache
+C:\Users\schae\Desktop\TU Darmstadt\Lehre\GDI\WiSe2024-25\02_Hörsaalübung\Code\2024_2025_CS\HUE1\HUE1_Arrays\obj\Debug\net8.0\ref\HUE1_Arrays.dll

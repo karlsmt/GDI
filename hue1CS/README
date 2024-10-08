@@ -7,10 +7,10 @@
     - Arrays
 
 ## Installation & Usage
-To run and compile the code you need at least Visual Studio 2022 with the .NET 7 MAUI package installed.
+To run and compile the code you need Visual Studio Code and .NET 8  installed.
 
 ## Authors and acknowledgment
-MGehring
+NilsSchaefer
 
 ## License
 No License, free to use for educational purpose.
