@@ -1,0 +1,27 @@
+# Hörsaalübung 1
+
+## Description
++ Hörsaalübung 1 für GDI: Einführung und "Hello World"
++ Themen:
+    - Snake (Python)
+    - Hello World
+    - Variablen
+    - Arrays
+
+## Structure
+- hue1CS: C#-Console Code
+- hue1PY: Python Code
+
+## Installation & Usage
+To run and compile the code, you must have Visual Studio Code, including all necessary extensions, and .NET 8 installed. 
+
+## Authors and acknowledgment
+NilsSchaefer
+
+## License
+No License, free to use for educational purpose.
+
+## Project status
+ToDo:
+CS an geplante Inhalte anpassen
+CS-Py Übersetzung

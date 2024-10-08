@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\schae\\Desktop\\TU Darmstadt\\Lehre\\GDI\\WiSe2024-25\\02_Hörsaalübung\\Code\\2024_2025_CS\\HUE1\\HUE1_Variablen\\HUE1_Variablen.csproj": {}
+    "C:\\Users\\schae\\Documents\\GitHub\\GDI\\GDI_2024_2025\\hue1\\hue1CS\\HUE1_Variablen\\HUE1_Variablen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\schae\\Desktop\\TU Darmstadt\\Lehre\\GDI\\WiSe2024-25\\02_Hörsaalübung\\Code\\2024_2025_CS\\HUE1\\HUE1_Variablen\\HUE1_Variablen.csproj": {
+    "C:\\Users\\schae\\Documents\\GitHub\\GDI\\GDI_2024_2025\\hue1\\hue1CS\\HUE1_Variablen\\HUE1_Variablen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\schae\\Desktop\\TU Darmstadt\\Lehre\\GDI\\WiSe2024-25\\02_Hörsaalübung\\Code\\2024_2025_CS\\HUE1\\HUE1_Variablen\\HUE1_Variablen.csproj",
+        "projectUniqueName": "C:\\Users\\schae\\Documents\\GitHub\\GDI\\GDI_2024_2025\\hue1\\hue1CS\\HUE1_Variablen\\HUE1_Variablen.csproj",
         "projectName": "HUE1_Variablen",
-        "projectPath": "C:\\Users\\schae\\Desktop\\TU Darmstadt\\Lehre\\GDI\\WiSe2024-25\\02_Hörsaalübung\\Code\\2024_2025_CS\\HUE1\\HUE1_Variablen\\HUE1_Variablen.csproj",
+        "projectPath": "C:\\Users\\schae\\Documents\\GitHub\\GDI\\GDI_2024_2025\\hue1\\hue1CS\\HUE1_Variablen\\HUE1_Variablen.csproj",
         "packagesPath": "C:\\Users\\schae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\schae\\Desktop\\TU Darmstadt\\Lehre\\GDI\\WiSe2024-25\\02_Hörsaalübung\\Code\\2024_2025_CS\\HUE1\\HUE1_Variablen\\obj\\",
+        "outputPath": "C:\\Users\\schae\\Documents\\GitHub\\GDI\\GDI_2024_2025\\hue1\\hue1CS\\HUE1_Variablen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
