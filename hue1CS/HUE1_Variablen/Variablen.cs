@@ -1,9 +1,4 @@
-﻿/* To DO:
-    Typenkonvertierung vereinfachen, Hauptanwendungsbeispiele raussuchen, Hilfsklasse "parsen" 
-
-*/
-
-using System;
+﻿using System;
 using System.Diagnostics;
 
 namespace HUE1
@@ -90,3 +85,8 @@ namespace HUE1
 
     }
 }
+
+/* To DO:
+    Typenkonvertierung vereinfachen, Hauptanwendungsbeispiele raussuchen, Hilfsklasse "parsen" 
+
+*/
