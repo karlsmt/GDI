@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HUE1_Arrays", "HUE1_Arrays\HUE1_Arrays.csproj", "{37D4F11B-C305-444F-9413-E45B7BD5DD87}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HUE1_Variablen", "HUE1_Variablen\HUE1_Variablen.csproj", "{E0F6A9A1-146A-4FE8-9A60-EFED5AA4F9EF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HUE1_Hello", "HUE1_Hello\HUE1_Hello.csproj", "{959F86D7-5F31-4A35-B439-B820B543B944}"
 EndProject
 Global

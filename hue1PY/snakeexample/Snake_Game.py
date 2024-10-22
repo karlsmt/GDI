@@ -1,5 +1,5 @@
 # importing libraries
-import pygame
+import pygame      # requires pip install pygame
 import time
 import random
 
