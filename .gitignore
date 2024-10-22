@@ -1,0 +1,12 @@
+# Ignore AssemblyInfo files
+**/AssemblyInfo.cs
+**/AssemblyInfoInputs.cache
+
+# Ignore any other assembly-related files
+**/*.assemblyinfo.cs
+**/*.assemblyinfoinputs.cache
+hue1CS/HUE1_Hello/obj/Debug/net8.0/HUE1_Hello.AssemblyInfo.cs
+hue1CS/HUE1_Hello/obj/Debug/net8.0/HUE1_Hello.AssemblyInfoInputs.cache
+hue1CS/HUE1_Variablen/obj/Debug/net8.0/HUE1_Variablen.AssemblyInfo.cs
+hue1CS/HUE1_Variablen/obj/Debug/net8.0/HUE1_Variablen.AssemblyInfoInputs.cache
+*.cache

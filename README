@@ -3,10 +3,8 @@
 ## Description
 + Hörsaalübung 1 für GDI: Einführung und "Hello World"
 + Themen:
-    - Snake (Python)
     - Hello World
-    - Variablen
-    - Arrays
+    - Snake
 
 ## Structure
 - hue1CS: C#-Console Code
@@ -22,6 +20,4 @@ NilsSchaefer
 No License, free to use for educational purpose.
 
 ## Project status
-ToDO:
-    - Anpassung an WiSe24/25
-    - Übersetzung identischer Übung in Python
+Finished

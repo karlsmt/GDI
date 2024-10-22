@@ -8,32 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\schae\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\schae\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\schae\\Documents\\GitHub\\GDI\\GDI_2024_2025\\hue1\\hue1CS\\HUE1_Hello\\HUE1_Hello.csproj",
+      "projectUniqueName": "C:\\Users\\schae\\Documents\\GitHub\\GDI\\GDI_2024_2025\\Hoersaaluebungen\\hue1\\hue1CS\\HUE1_Hello\\HUE1_Hello.csproj",
       "projectName": "HUE1_Hello",
-      "projectPath": "C:\\Users\\schae\\Documents\\GitHub\\GDI\\GDI_2024_2025\\hue1\\hue1CS\\HUE1_Hello\\HUE1_Hello.csproj",
+      "projectPath": "C:\\Users\\schae\\Documents\\GitHub\\GDI\\GDI_2024_2025\\Hoersaaluebungen\\hue1\\hue1CS\\HUE1_Hello\\HUE1_Hello.csproj",
       "packagesPath": "C:\\Users\\schae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\schae\\Documents\\GitHub\\GDI\\GDI_2024_2025\\hue1\\hue1CS\\HUE1_Hello\\obj\\",
+      "outputPath": "C:\\Users\\schae\\Documents\\GitHub\\GDI\\GDI_2024_2025\\Hoersaaluebungen\\hue1\\hue1CS\\HUE1_Hello\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\schae\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\schae\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -72,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

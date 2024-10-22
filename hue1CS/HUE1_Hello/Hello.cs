@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace HUE1_Hello
 {
@@ -7,6 +8,7 @@ namespace HUE1_Hello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Debug.WriteLine("Hello World");
         }
     }
 }
